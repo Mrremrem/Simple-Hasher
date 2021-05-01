@@ -5,5 +5,5 @@ This program uses Stephan Brumme's implementation of a hashing library which can
 
 # Compiling
 To compile this program, you will need:
-1. [Cmake] (https://cmake.org/)
+1. [Cmake](https://cmake.org/ "CMake's homepage")
 2. Some C++ compiler like Clang++ that can get the job done
